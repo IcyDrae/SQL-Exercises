@@ -1,0 +1,2 @@
+The dialect used here is PostgreSQL as the exercises at Codewars are written only for that database.
+
