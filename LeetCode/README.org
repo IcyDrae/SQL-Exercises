@@ -1,0 +1,1 @@
+For LeetCode, the solutions are only based on Microsoft SQL Server and written in T-SQL.
